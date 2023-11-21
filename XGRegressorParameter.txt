@@ -1,0 +1,341 @@
+100 1
+Found cached folds, using those
+0
+Mean Squared Error:  0.49131311869396954
+R-Squared:  0.6557437414570069
+1
+Mean Squared Error:  0.46231731399619364
+R-Squared:  0.6562384142780381
+2
+Mean Squared Error:  0.4615412807191138
+R-Squared:  0.6500021977135685
+3
+Mean Squared Error:  0.46675612743592404
+R-Squared:  0.6617313711882743
+4
+Mean Squared Error:  0.4673663278060409
+R-Squared:  0.6561410415278244
+100 2
+Found cached folds, using those
+0
+Mean Squared Error:  0.40805241872453957
+R-Squared:  0.7140833541490921
+1
+Mean Squared Error:  0.3874949417866693
+R-Squared:  0.7118734868559963
+2
+Mean Squared Error:  0.37635941114482097
+R-Squared:  0.7145976486322825
+3
+Mean Squared Error:  0.3850325275501561
+R-Squared:  0.7209582960211183
+4
+Mean Squared Error:  0.39676109812919713
+R-Squared:  0.7080879604540073
+100 3
+Found cached folds, using those
+0
+Mean Squared Error:  0.37978454867014844
+R-Squared:  0.7338902569400712
+1
+Mean Squared Error:  0.3692235374317824
+R-Squared:  0.7254594087850521
+2
+Mean Squared Error:  0.35119532689445926
+R-Squared:  0.733680176137633
+3
+Mean Squared Error:  0.35629797102182403
+R-Squared:  0.7417828732789418
+4
+Mean Squared Error:  0.36288703277039597
+R-Squared:  0.733010382418325
+100 4
+Found cached folds, using those
+0
+Mean Squared Error:  0.3582378278838429
+R-Squared:  0.7489877440608748
+1
+Mean Squared Error:  0.3593924139627013
+R-Squared:  0.7327694585946674
+2
+Mean Squared Error:  0.34586906514693866
+R-Squared:  0.7377192079293939
+3
+Mean Squared Error:  0.350877919863508
+R-Squared:  0.745710905854507
+4
+Mean Squared Error:  0.34855967406803806
+R-Squared:  0.7435515582539418
+100 5
+Found cached folds, using those
+0
+Mean Squared Error:  0.3584193673411233
+R-Squared:  0.7488605418919048
+1
+Mean Squared Error:  0.3615976137584561
+R-Squared:  0.7311297558284658
+2
+Mean Squared Error:  0.3269949201488474
+R-Squared:  0.7520319239210705
+3
+Mean Squared Error:  0.34647372828955875
+R-Squared:  0.748902722216786
+4
+Mean Squared Error:  0.35163688308847496
+R-Squared:  0.7412875400185337
+500 1
+Found cached folds, using those
+0
+Mean Squared Error:  0.4244747474207479
+R-Squared:  0.7025764571858106
+1
+Mean Squared Error:  0.4094204938773732
+R-Squared:  0.6955704795353752
+2
+Mean Squared Error:  0.4007844168983881
+R-Squared:  0.6960755820443005
+3
+Mean Squared Error:  0.40345161883731656
+R-Squared:  0.7076095676650644
+4
+Mean Squared Error:  0.4096747167171755
+R-Squared:  0.698586926311017
+500 2
+Found cached folds, using those
+0
+Mean Squared Error:  0.36372560079156646
+R-Squared:  0.7451425380261398
+1
+Mean Squared Error:  0.36935593885747103
+R-Squared:  0.7253609601164241
+2
+Mean Squared Error:  0.3355168723522367
+R-Squared:  0.7455695235530492
+3
+Mean Squared Error:  0.3430717966616475
+R-Squared:  0.7513681783285384
+4
+Mean Squared Error:  0.3570987934600482
+R-Squared:  0.737269007445907
+500 3
+Found cached folds, using those
+0
+Mean Squared Error:  0.3489099100299664
+R-Squared:  0.7555236861682381
+1
+Mean Squared Error:  0.3772277993827102
+R-Squared:  0.7195077437760112
+2
+Mean Squared Error:  0.3210429838391948
+R-Squared:  0.7565454197116995
+3
+Mean Squared Error:  0.32486481076322754
+R-Squared:  0.7645631891546114
+4
+Mean Squared Error:  0.34816730272793533
+R-Squared:  0.7438402405836583
+500 4
+Found cached folds, using those
+0
+Mean Squared Error:  0.3444718141165186
+R-Squared:  0.7586333981545165
+1
+Mean Squared Error:  0.36831265965033727
+R-Squared:  0.7261367028881907
+2
+Mean Squared Error:  0.33001384132401407
+R-Squared:  0.7497426037221535
+3
+Mean Squared Error:  0.334375519684712
+R-Squared:  0.7576705651979186
+4
+Mean Squared Error:  0.34016600537320235
+R-Squared:  0.7497270955219252
+500 5
+Found cached folds, using those
+0
+Mean Squared Error:  0.3526107522516728
+R-Squared:  0.7529305575742178
+1
+Mean Squared Error:  0.37981814765448474
+R-Squared:  0.7175816592394397
+2
+Mean Squared Error:  0.3188479475952459
+R-Squared:  0.7582099682437922
+3
+Mean Squared Error:  0.3353769984585202
+R-Squared:  0.7569447710804185
+4
+Mean Squared Error:  0.3436585206094413
+R-Squared:  0.7471575209074705
+1000 1
+Found cached folds, using those
+0
+Mean Squared Error:  0.4060090284990688
+R-Squared:  0.7155151292167594
+1
+Mean Squared Error:  0.40105643003074687
+R-Squared:  0.701789679560879
+2
+Mean Squared Error:  0.3879486898269619
+R-Squared:  0.7058092211648317
+3
+Mean Squared Error:  0.38565913686012754
+R-Squared:  0.7205041782074988
+4
+Mean Squared Error:  0.39686379414852446
+R-Squared:  0.7080124031360231
+1000 2
+Found cached folds, using those
+0
+Mean Squared Error:  0.35438882274925515
+R-Squared:  0.7516846883441217
+1
+Mean Squared Error:  0.37581510755310976
+R-Squared:  0.7205581677354391
+2
+Mean Squared Error:  0.3284662378686968
+R-Squared:  0.75091618847134
+3
+Mean Squared Error:  0.33603814206913046
+R-Squared:  0.7564656254849715
+4
+Mean Squared Error:  0.354933851820881
+R-Squared:  0.7388618363103475
+1000 3
+Found cached folds, using those
+0
+Mean Squared Error:  0.34733255563301163
+R-Squared:  0.7566289164224911
+1
+Mean Squared Error:  0.3941149501361174
+R-Squared:  0.7069511002206612
+2
+Mean Squared Error:  0.31974050091265976
+R-Squared:  0.7575331236958212
+3
+Mean Squared Error:  0.32892347402244165
+R-Squared:  0.7616217849077194
+4
+Mean Squared Error:  0.35267116706594615
+R-Squared:  0.7405265784556261
+1000 4
+Found cached folds, using those
+0
+Mean Squared Error:  0.3484346246140982
+R-Squared:  0.7558567120386683
+1
+Mean Squared Error:  0.3863266898606473
+R-Squared:  0.7127421545923194
+2
+Mean Squared Error:  0.3427718018385736
+R-Squared:  0.7400679368433952
+3
+Mean Squared Error:  0.3386334471434512
+R-Squared:  0.7545847497187308
+4
+Mean Squared Error:  0.35070624045387516
+R-Squared:  0.7419722487534259
+1000 5
+Found cached folds, using those
+0
+Mean Squared Error:  0.3563824130633647
+R-Squared:  0.7502878073806594
+1
+Mean Squared Error:  0.39852819977643933
+R-Squared:  0.7036695755002687
+2
+Mean Squared Error:  0.3211335488202912
+R-Squared:  0.756476742118444
+3
+Mean Squared Error:  0.34407004410049485
+R-Squared:  0.7506447260319211
+4
+Mean Squared Error:  0.35018942188788904
+R-Squared:  0.7423524915806174
+5000 1
+Found cached folds, using those
+0
+Mean Squared Error:  0.39200278709218545
+R-Squared:  0.7253291074711992
+1
+Mean Squared Error:  0.41426511153868534
+R-Squared:  0.6919682059474062
+2
+Mean Squared Error:  0.3756031467930356
+R-Squared:  0.7151711419949132
+3
+Mean Squared Error:  0.3821291889692305
+R-Squared:  0.7230624105747739
+4
+Mean Squared Error:  0.3926437942428639
+R-Squared:  0.7111172155411549
+5000 2
+Found cached folds, using those
+0
+Mean Squared Error:  0.3748817864732745
+R-Squared:  0.7373255541185963
+1
+Mean Squared Error:  0.4140832081614613
+R-Squared:  0.6921034623860245
+2
+Mean Squared Error:  0.34570488316488657
+R-Squared:  0.7378437110568362
+3
+Mean Squared Error:  0.37151441647750827
+R-Squared:  0.7307551741505798
+4
+Mean Squared Error:  0.38257900965761593
+R-Squared:  0.7185222555254784
+5000 3
+Found cached folds, using those
+0
+Mean Squared Error:  0.37983332624844174
+R-Squared:  0.7338560791704063
+1
+Mean Squared Error:  0.43642476763668875
+R-Squared:  0.675491127783369
+2
+Mean Squared Error:  0.35227332730453026
+R-Squared:  0.7328627026197695
+3
+Mean Squared Error:  0.3619202820460784
+R-Squared:  0.7377082584444774
+4
+Mean Squared Error:  0.38807201909195516
+R-Squared:  0.7144808422045051
+5000 4
+Found cached folds, using those
+0
+Mean Squared Error:  0.3664634068079224
+R-Squared:  0.7432241954866354
+1
+Mean Squared Error:  0.41502725129336676
+R-Squared:  0.691401507788632
+2
+Mean Squared Error:  0.3564811204496673
+R-Squared:  0.7296718323448955
+3
+Mean Squared Error:  0.3602500734366587
+R-Squared:  0.7389186960647429
+4
+Mean Squared Error:  0.372459236535058
+R-Squared:  0.7259677526416969
+5000 5
+Found cached folds, using those
+0
+Mean Squared Error:  0.3674207528139191
+R-Squared:  0.7425533964755453
+1
+Mean Squared Error:  0.416929132746863
+R-Squared:  0.6899873410150414
+2
+Mean Squared Error:  0.32899378126084655
+R-Squared:  0.750516139687891
+3
+Mean Squared Error:  0.3566497810872881
+R-Squared:  0.7415279086379836
+4
+Mean Squared Error:  0.36497083185057017
+R-Squared:  0.7314772531816989
+
